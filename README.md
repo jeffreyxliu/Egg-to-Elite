@@ -25,6 +25,7 @@ Your duck has three trainable skills:
 1. Running
 2. Swimming
 3. Flying
+
 For each skill, you can either start a training session or view a tutorial first. The tutorial will not net you any coins or experience, nor will it cost any fullness and sleepiness to do. It provides a simpler version of the real training minigame so that you can get up to speed.
 
 Shop:
